@@ -1,11 +1,10 @@
-# RAG and Fine-Tuning Upskilling Workshop
-This repository is designed to support hands-on learning and upskilling in **Retrieval-Augmented Generation (RAG)** and **Fine-Tuning of Large Language Models (LLMs)** with Azure OpenAI and Azure AI Search. It includes detailed setup instructions, practical notebooks and guided experiences to help you build, customize, and optimize GenAI applications using Microsoft Azure.
+# RAG with AI Search Upskilling Workshop
+This repository is designed to support hands-on learning and upskilling in **Retrieval-Augmented Generation (RAG)** with Azure OpenAI and Azure AI Search. It includes detailed setup instructions, practical notebooks and guided experiences to help you build, customize, and optimize GenAI applications using Microsoft Azure.
 
 ## 📚 What’s Inside
 This upskilling repo is **based on and extends** the following Microsoft resources:
 
 * [RAG Time](https://github.com/microsoft/rag-time) by Microsoft
-* [LLM-Fine-Tuning-Azure](https://github.com/microsoft/LLM-Fine-Tuning-Azure/tree/main) by Microsoft.
 
 The content has been adapted and enriched to provide a smoother and more guided learning experience, ideal for workshops or self-paced exploration.
 
@@ -76,4 +75,3 @@ This notebook builds on RAG Fundamentals and explores **different search strateg
 ## 🙌 Acknowledgments
 This work builds upon:
 * [RAG Time](https://github.com/microsoft/rag-time) by Microsoft
-* [LLM-Fine-Tuning-Azure](https://github.com/microsoft/LLM-Fine-Tuning-Azure/tree/main) by Microsoft
